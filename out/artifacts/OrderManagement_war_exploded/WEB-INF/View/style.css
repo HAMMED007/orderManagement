@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&family=Urbanist&display=swap');
+.navbar-nav li a{
+    font-weight: bold;
+
+}
+.navbar{
+    box-shadow: 0px 0px 5px grey;
+
+}
+.content{
+    position: relative;
+    top: 50px;
+    box-shadow: 0px 0px 5px lightgrey;
+    height: auto;
+    margin: auto;
+    width: 85%;
+    padding:10px;
+    border-radius: 10px;
+}
+.content h3{
+    text-align: center;
+}
